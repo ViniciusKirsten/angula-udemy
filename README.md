@@ -7,8 +7,8 @@
 * Aprender Angular na Prática de forma muito objetiva
 
 ### **Módulos do Curso**
-* [ ] Introdução.
-* [ ] Backend.
+* [x] Introdução.
+* [x] Backend.
 * [ ] Frontend.
 
 ### **Imagens do projeto**
