@@ -9,6 +9,6 @@
 ### **Módulos do Curso**
 * [x] Introdução.
 * [x] Backend.
-* [ ] Frontend.
+* [x] Frontend.
 
 ### **Imagens do projeto**
